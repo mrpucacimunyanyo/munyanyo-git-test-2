@@ -8,5 +8,8 @@
 <body>
     <h1>Hello World</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias, pariatur!</p>
+    <ul>
+        <li>makan nasi goreng</li>
+    </ul>
 </body>
 </html>
